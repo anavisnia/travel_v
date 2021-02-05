@@ -10,7 +10,7 @@
 This project is for educational porpuses only. Pull request are welcome.
 Thank you for your cooperation!
 
-Site published at https://front-end-by-rimantas.github.io/19-grupe-portfolio-personal/
+Site published at https://anavisnia.github.io/travel_v/
 
 Design: [Downgraf](https://www.pinterest.com/pin/356910339215044724/)
 
