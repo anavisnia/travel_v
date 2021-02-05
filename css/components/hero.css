@@ -1,34 +1,55 @@
+.hero {
+    background-image: url(../../img/bgc/rohit-tandon-9wg5jCEPBsw-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
 .hero > .hero-main {
     display: inline-block;
     width: 100%;
     height: 100%;
-    background-color: cadetblue;
+    /* background-color: cadetblue; */
 }
 
 .hero-main > .hero-text {
     display: inline-block;
     width: 50%;
     height: 100%;
-    background-color: aquamarine;
-    text-align: center;
+    /* background-color: aquamarine; */
+    text-align: justify;
     vertical-align: middle;
     padding: 15% 0% 15% 0%;
+    padding-left: 10%;
 }
 
 .hero-text > h1 {
     width: 100%;
     display: inline-block;
-    padding-top: 10px;
     padding-bottom: 10px;
+    font-size: 120px;
+    color: white;
+    text-transform: uppercase;
+}
+.h1-style{
+    font-family: 'Megrim', cursive;
+    font-style: italic;
+    color: white;
 }
 .hero-text > h2 {
     width: 100%;
     display: inline-block;
     padding-top: 10px;
     padding-bottom: 10px;
+    color: white;
+    font-size: 16px;
 }
 .hero-text > a {
-    width: 100%;
     display: inline-block;
-    padding-top: 30px;
+    width: auto;
+    font-size: 12px;
+    margin-top: 30px;
+    padding: 15px 40px;
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+
 }
